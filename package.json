@@ -1,0 +1,13 @@
+{
+  "name": "my-vercel-express-backend",
+  "version": "1.0.0",
+  "main": "api/lastPrice.js",
+  "scripts": {
+    "start": "node api/lastPrice.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "axios": "^0.21.1",
+    "cors": "^2.8.5"
+  }
+}
